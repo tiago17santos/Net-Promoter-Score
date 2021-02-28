@@ -22,4 +22,4 @@ class Surveys {
     }
 }
 
-export {Surveys}
+export { Surveys }
